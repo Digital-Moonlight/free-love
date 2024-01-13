@@ -1,0 +1,31 @@
+#+TITLE: Free Love
+#+AUTHOR: Digital Moonlight
+#+OPTIONS: num:nil
+
+* Introduction
+** Important Notice
+Due to the Pirate Jam 14 rules I will *NOT* be accepting contributions except from maybe /some/ users that may or may not be added to the team until after the jam is over.  However, feel free to fork the game, play with it and learn from it.
+** Summary
+Free Love is a real time strategy game where the player builds a base which will auto-generate non-controllable units to attack the enemy base.
+** Inspiration
+*** Preschool Showdown
+Preschool Showdown was a game themed around kids playing in a sandbox, you would build a base with your child as the base bulder unit and a caster that could cast buffs.  The buildings would auto produce units and the goal was to destroy the enemy sandcastle.
+** Gameplay
+WIP
+** Platforms
+WIP
+** Development Tools
+- Godot 4.2.1 as the game engine
+- Libresprite for graphics
+- Reaper for sound
+* Concept
+WIP
+* Art
+WIP
+* Audio
+WIP
+* User Experience
+WIP
+* Development Timeline
+*** TODO Game will be completed and submitted by the date below:
+SCHEDULED: <2024-01-26 Fri>
