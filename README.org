@@ -2,11 +2,9 @@
 #+AUTHOR: Digital Moonlight
 #+OPTIONS: num:nil
 
+Free Love is a real time strategy where you spread love to a war torn land by building a base and sending your followers to convert the people to your joyous rule.
 * Introduction
-** Important Notice
 Due to the Pirate Jam 14 rules I will *NOT* be accepting contributions except from maybe /some/ users that may or may not be added to the team until after the jam is over.  However, feel free to fork the game, play with it and learn from it.
-** Summary
-Free Love is a real time strategy game where the player builds a base which will auto-generate non-controllable units to attack the enemy base.
 ** Inspiration
 *** Preschool Showdown
 Preschool Showdown was a game themed around kids playing in a sandbox, you would build a base with your child as the base bulder unit and a caster that could cast buffs.  The buildings would auto produce units and the goal was to destroy the enemy sandcastle.
