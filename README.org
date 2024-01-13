@@ -25,5 +25,5 @@ WIP
 * User Experience
 WIP
 * Development Timeline
-*** TODO Game will be completed and submitted by the date below:
+*** TODO Game will be completed and submitted by the 26th:
 SCHEDULED: <2024-01-26 Fri>
